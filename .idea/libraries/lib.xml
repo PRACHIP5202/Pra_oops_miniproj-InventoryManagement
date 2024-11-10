@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/flatlaf-intellij-themes-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/flatlaf-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem/lib/jgoodies-common-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
